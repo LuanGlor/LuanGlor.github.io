@@ -1,0 +1,17 @@
+/* 文章封面完整显示 */
+#page-header {
+  background-size: 100% 100% !important;
+}
+
+/* 底部footer透明无边框无阴影 */
+#footer {
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+/* 底部 footer 所有文字颜色统一修改 */
+#footer,
+#footer * {
+  color: #051316 !important;
+}
